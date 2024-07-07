@@ -1,0 +1,14 @@
+C:\Users\jhoel\source\repos\ejercicio3tarea2\ejercicio3tarea2\bin\Debug\net8.0\ejercicio3tarea2.exe
+C:\Users\jhoel\source\repos\ejercicio3tarea2\ejercicio3tarea2\bin\Debug\net8.0\ejercicio3tarea2.deps.json
+C:\Users\jhoel\source\repos\ejercicio3tarea2\ejercicio3tarea2\bin\Debug\net8.0\ejercicio3tarea2.runtimeconfig.json
+C:\Users\jhoel\source\repos\ejercicio3tarea2\ejercicio3tarea2\bin\Debug\net8.0\ejercicio3tarea2.dll
+C:\Users\jhoel\source\repos\ejercicio3tarea2\ejercicio3tarea2\bin\Debug\net8.0\ejercicio3tarea2.pdb
+C:\Users\jhoel\source\repos\ejercicio3tarea2\ejercicio3tarea2\obj\Debug\net8.0\ejercicio3tarea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoel\source\repos\ejercicio3tarea2\ejercicio3tarea2\obj\Debug\net8.0\ejercicio3tarea2.AssemblyInfoInputs.cache
+C:\Users\jhoel\source\repos\ejercicio3tarea2\ejercicio3tarea2\obj\Debug\net8.0\ejercicio3tarea2.AssemblyInfo.cs
+C:\Users\jhoel\source\repos\ejercicio3tarea2\ejercicio3tarea2\obj\Debug\net8.0\ejercicio3tarea2.csproj.CoreCompileInputs.cache
+C:\Users\jhoel\source\repos\ejercicio3tarea2\ejercicio3tarea2\obj\Debug\net8.0\ejercicio3tarea2.dll
+C:\Users\jhoel\source\repos\ejercicio3tarea2\ejercicio3tarea2\obj\Debug\net8.0\refint\ejercicio3tarea2.dll
+C:\Users\jhoel\source\repos\ejercicio3tarea2\ejercicio3tarea2\obj\Debug\net8.0\ejercicio3tarea2.pdb
+C:\Users\jhoel\source\repos\ejercicio3tarea2\ejercicio3tarea2\obj\Debug\net8.0\ejercicio3tarea2.genruntimeconfig.cache
+C:\Users\jhoel\source\repos\ejercicio3tarea2\ejercicio3tarea2\obj\Debug\net8.0\ref\ejercicio3tarea2.dll
